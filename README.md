@@ -1,8 +1,8 @@
-## wesley 👋
+## wesley 
 
-**`Desenvolvedor front end em formação`**
+**`Desenvolvedor em formação`**
 
-### 🤖 Linguagens e Tecnologias
+###Linguagens e Tecnologias
 HTML, CSS, JavaScript, Angular, Python, MySQL, Figma
 
 <!--
