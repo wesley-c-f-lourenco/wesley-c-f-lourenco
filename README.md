@@ -2,8 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-###Linguagens e Tecnologias
-HTML, CSS, JavaScript, Angular, Python, MySQL, Figma
+(https://wesley-c-f-lourenco.github.io/wesley-c-f-lourenco/)
 
 <!--
 **wesley-c-f-lourenco/wesley-c-f-lourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
